@@ -2,8 +2,6 @@
 
 # Hello! / 　你好！ /　こんにちは！
 
-## My Name: Ichrin Dantalian Lee
-
 ### You can call me 1rin or Ichrin.
 
 - I'm a student from China.
