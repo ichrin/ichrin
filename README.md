@@ -6,7 +6,7 @@
 
 ### You can call me 1rin or Ichrin.
 
-- I'm a student in China.
+- I'm a student from China.
 - My blog is [Ichrin's SHELTER](https://shelter.ichrin.eu.org)
 
 POOR ENGLISH
