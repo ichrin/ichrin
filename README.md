@@ -7,5 +7,5 @@
 - I'm a student from China.
 - My blog is [Ichrin's SHELTER](https://shelter.ichrin.eu.org)
 
+Visitor Count
 [![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME})](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
-POOR ENGLISH
