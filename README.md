@@ -8,4 +8,6 @@
 - My blog is [Ichrin's SHELTER](https://shelter.ichrin.eu.org)
 
 Visitor Count
-[![](https://steins-gate-visitor-count.greenhandatsjtu.repl.co/{USERNAME}?ratio=0.75)](https://github.com/greenhandatsjtu/steins-gate-visitor-count)
+<p align="center">
+<img src="https://visitor-count-b8lb.vercel.app/api/Github_Username" />
+</p>
