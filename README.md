@@ -9,5 +9,5 @@
 
 Visitor Count
 <p align="center">
-<img src="https://visitor-count-b8lb.vercel.app/api/Github_Username" />
+<img src="https://visitor-count-b8lb.vercel.app/api/1rin" />
 </p>
